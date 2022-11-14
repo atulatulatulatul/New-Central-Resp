@@ -1,0 +1,21 @@
+              Login page Data
+ 
+UserName = standard_user                         
+Password = secret_sauce
+
+
+              LoginPageTest  Data
+
+URL = https://www.saucedemo.com/
+TITLE = Swag Labs
+LABEL = PRODUCTS
+NAME(A TO Z) = Price (low to high)
+
+      ThirdPage  Data
+      
+Yourcart =YOUR CART     
+TextPage4 = Checkout: Your Information 
+Browser1 = chrome
+Browser2 = edge
+                       
+
