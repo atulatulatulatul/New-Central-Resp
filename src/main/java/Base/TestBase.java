@@ -48,4 +48,7 @@ public class TestBase {
 	    driver.get("https://www.saucedemo.com/");
 	    	
 	}
-}	
+}
+
+// i push the code on github
+// now ever one can access the code	
